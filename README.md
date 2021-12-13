@@ -16,7 +16,7 @@ Here's a trial video of a team at a beginner level
 ## Popularity over Time and Space
 This venue held its first sanctioned trials in 2009 in California. Since then the sport has grown in other parts of the country. This first exploration looks at how the number of beginner level (NW1) trials changed over the years since 2009. How seasonality changes these numbers. And what impact the COVID-19 lockdowns had on these numbers. 
 
-[NW1 Trials over Time](/assets/trials-by-time.png)
+![NW1 Trials over Time](/assets/trials-by-time.png)
 
 
 
