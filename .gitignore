@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+*/.Rapp.history
+*/test.csv
+.sass-cache/
+_site/
